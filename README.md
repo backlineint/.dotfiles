@@ -24,7 +24,11 @@ git clone --recursive git@github.com:backlineint/dotfiles.git ~/.dotfiles
 
 ## Manual Follow Up Steps
 
-tbd
+* Update git config
+
+```zsh
+git config --global user.email <email>
+```
 
 ## Subsequent syncing
 

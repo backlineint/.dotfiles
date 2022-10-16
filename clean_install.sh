@@ -27,3 +27,7 @@ brew tap homebrew/bundle
 
 # Handoff to sync script
 $DOTFILES/sync.sh
+
+# Install latest node LTS
+mkdir ~/.nvm
+nvm install --lts
