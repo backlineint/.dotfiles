@@ -19,6 +19,9 @@ fi
 rm -rf $HOME/.zshrc
 ln -s $HOME/.dotfiles/.zshrc $HOME/.zshrc
 
+# Symlink the Mackup config file to the home directory
+ln -s $DOTFILES/.mackup.cfg $HOME/.mackup.cfg
+
 # Update Homebrew recipes
 brew update
 

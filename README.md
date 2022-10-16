@@ -24,19 +24,23 @@ git clone --recursive git@github.com:backlineint/dotfiles.git ~/.dotfiles
 
 ## Manual Follow Up Steps
 
-* Update git config
-
-```zsh
-git config --global user.email <email>
-```
+TODO
 
 ## Subsequent syncing
 
-TODO
+To install apps, clone repositories and sync Mac settings, run:
 
 ```zsh
 ~/.dotfiles/sync.sh
 ```
+
+# Commit settings changes
+
+```zsh
+mackup backup
+```
+
+And commit the result.
 
 ## Resources
 
