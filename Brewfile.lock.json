@@ -357,6 +357,18 @@
         "options": {
           "full_name": "font-source-code-pro-for-powerline"
         }
+      },
+      "lastpass": {
+        "version": "4.101.2,1278",
+        "options": {
+          "full_name": "lastpass"
+        }
+      },
+      "evernote": {
+        "version": "10.46.7,3701,b2719bc136",
+        "options": {
+          "full_name": "evernote"
+        }
       }
     },
     "mas": {
@@ -370,7 +382,7 @@
       "ventura": {
         "HOMEBREW_VERSION": "3.6.5",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "49249e60664c78437dbb11ec108a7bcd144ed5d4",
+        "Homebrew/homebrew-core": "aa5b852450edf6bf08b6feec95ee75c277c8783e",
         "CLT": "14.0.0.0.1.1661618636",
         "Xcode": "14.0.1",
         "macOS": "13.0"

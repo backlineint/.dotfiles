@@ -24,6 +24,8 @@ cask 'ray'
 cask 'slack'
 cask 'visual-studio-code'
 cask 'zoom'
+cask 'lastpass'
+cask 'evernote'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
