@@ -24,7 +24,7 @@ git clone --recursive git@github.com:backlineint/dotfiles.git ~/.dotfiles
 
 ## Manual Follow Up Steps
 
-* Enable Lastpass chrome extension
+* Login to Chrome profile to sync browser extensions and settings.
 
 ## Subsequent syncing
 
