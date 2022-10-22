@@ -26,6 +26,9 @@ git clone --recursive git@github.com:backlineint/dotfiles.git ~/.dotfiles
 
 * Login to Chrome profile to sync browser extensions and settings.
 
+Apps that currently require manual download:
+* Arc
+
 ## Subsequent syncing
 
 To install apps, clone repositories and sync Mac settings, run:
