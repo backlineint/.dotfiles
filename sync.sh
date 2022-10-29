@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Update Homebrew recipes
+brew update
+
 # Install homebrew bundle
 brew bundle --file $DOTFILES/Brewfile
 

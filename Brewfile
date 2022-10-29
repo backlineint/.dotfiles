@@ -26,11 +26,13 @@ cask 'visual-studio-code'
 cask 'zoom'
 cask 'lastpass'
 cask 'evernote'
+cask 'raycast'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
 
 # Mac App Store
+# These might need to be installed manually first
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
 mas 'Things', id: 904280696
