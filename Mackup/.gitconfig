@@ -2,3 +2,5 @@
 [user]
 	name = Brian Perry
 	email = contact.brianperry@gmail.com
+[core]
+	editor = nano
