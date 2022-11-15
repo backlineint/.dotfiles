@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.webc": "html"
+  },
+  "editor.formatOnSave": true
+}
