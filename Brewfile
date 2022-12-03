@@ -27,6 +27,7 @@ cask 'zoom'
 cask 'lastpass'
 cask 'evernote'
 cask 'raycast'
+cask 'encryptme'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
