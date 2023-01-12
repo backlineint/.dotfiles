@@ -29,6 +29,7 @@ cask 'lastpass'
 cask 'evernote'
 cask 'raycast'
 cask 'encryptme'
+cask 'notion'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
@@ -38,3 +39,4 @@ cask 'font-source-code-pro-for-powerline'
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
 mas 'Things', id: 904280696
+mas 'Sleeve', id: 1606145041
