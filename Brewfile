@@ -15,6 +15,7 @@ brew 'composer'
 brew 'mysql'
 brew 'nvm'
 brew 'yarn'
+brew 'pnpm'
 
 # Apps
 cask 'docker'
