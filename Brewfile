@@ -30,6 +30,7 @@ cask 'evernote'
 cask 'raycast'
 cask 'encryptme'
 cask 'notion'
+cask 'fig'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
