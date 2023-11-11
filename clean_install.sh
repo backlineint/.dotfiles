@@ -19,8 +19,13 @@ fi
 rm -rf $HOME/.zshrc
 ln -s $HOME/.dotfiles/.zshrc $HOME/.zshrc
 
+export DOTFILES=~/.dotfiles
+
 # Symlink the Mackup config file to the home directory
 ln -s $DOTFILES/.mackup.cfg $HOME/.mackup.cfg
+
+# For Lando - should be possible to remove in the future
+sudo softwareupdate --install-rosetta
 
 # Update Homebrew recipes
 brew update
@@ -34,6 +39,3 @@ $DOTFILES/sync.sh
 # Install latest node LTS
 mkdir ~/.nvm
 nvm install --lts
-
-# Add lando CA
-sudo security add-trusted-cert -d -r trustRoot -k /Library/Keychains/System.keychain ~/.lando/certs/lndo.site.pem

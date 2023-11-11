@@ -9,8 +9,8 @@ brew 'mas' # Mac App Store manager
 brew 'svn' # Needed to install fonts
 
 # Development
-brew 'php@8.0'
-brew 'php@7.4'
+brew 'php@8.1'
+brew 'php@8.2'
 brew 'composer'
 brew 'mysql'
 brew 'nvm'
@@ -34,6 +34,7 @@ cask 'encryptme'
 cask 'notion'
 cask 'fig'
 cask 'lando'
+cask 'arc'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
@@ -45,4 +46,3 @@ mas 'Numbers', id: 409203825
 mas 'Things', id: 904280696
 mas 'Sleeve', id: 1606145041
 mas 'GIPHY Capture. The GIF Maker', id: 668208984
-mas 'Final Cut Pro', id: 424389933

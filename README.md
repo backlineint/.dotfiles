@@ -4,10 +4,12 @@ Your computer could explode at any time. No big deal - just brew a really large 
 
 ## Clean Install
 
+* Open a terminal and type `git` to install developer tools.
+
 * Clone this repo to `~/.dotfiles` with:
 
 ```zsh
-git clone --recursive git@github.com:backlineint/dotfiles.git ~/.dotfiles
+git clone --recursive https://github.com/backlineint/.dotfiles.git ~/.dotfiles
 ```
 
 * Generate new keys by running:
@@ -15,6 +17,8 @@ git clone --recursive git@github.com:backlineint/dotfiles.git ~/.dotfiles
 ```zsh
 ~/.dotfiles/ssh.sh <github email address>
 ```
+
+* Add the newly created keys to your Github and (Drupal) Gitlab accounts 
 
 * Perform a clean install:
 
@@ -27,7 +31,12 @@ git clone --recursive git@github.com:backlineint/dotfiles.git ~/.dotfiles
 * Login to Chrome profile to sync browser extensions and settings.
 
 Apps that currently require manual download:
-* Arc
+* Final Cut Pro (associated with different Apple account)
+* Trust Lando certs after you've started a Lando app
+
+```zsh
+sudo security add-trusted-cert -d -r trustRoot -k /Library/Keychains/System.keychain ~/.lando/certs/lndo.site.pem
+```
 
 ## Subsequent syncing
 
