@@ -16,6 +16,8 @@ brew 'mysql'
 brew 'nvm'
 brew 'yarn'
 brew 'pnpm'
+brew 'youtube-dl'
+brew 'ffmpeg'
 
 # Apps
 cask 'docker'
@@ -25,11 +27,13 @@ cask 'slack'
 cask 'visual-studio-code'
 cask 'zoom'
 cask 'lastpass'
+cask '1password'
 cask 'evernote'
 cask 'raycast'
 cask 'encryptme'
 cask 'notion'
 cask 'fig'
+cask 'lando'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
@@ -40,3 +44,4 @@ mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
 mas 'Things', id: 904280696
 mas 'Sleeve', id: 1606145041
+mas 'GIPHY Capture. The GIF Maker', id: 668208984

@@ -34,3 +34,6 @@ $DOTFILES/sync.sh
 # Install latest node LTS
 mkdir ~/.nvm
 nvm install --lts
+
+# Add lando CA
+sudo security add-trusted-cert -d -r trustRoot -k /Library/Keychains/System.keychain ~/.lando/certs/lndo.site.pem
