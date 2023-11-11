@@ -45,3 +45,4 @@ mas 'Numbers', id: 409203825
 mas 'Things', id: 904280696
 mas 'Sleeve', id: 1606145041
 mas 'GIPHY Capture. The GIF Maker', id: 668208984
+mas 'Final Cut Pro', id: 424389933
