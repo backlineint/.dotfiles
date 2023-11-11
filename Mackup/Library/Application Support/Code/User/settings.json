@@ -1,6 +1,7 @@
 {
   "files.associations": {
-    "*.webc": "html"
+    "*.webc": "html",
+    "*.module": "php"
   },
   "editor.formatOnSave": true,
   "explorer.confirmDelete": false
