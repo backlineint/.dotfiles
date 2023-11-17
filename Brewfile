@@ -45,4 +45,5 @@ mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
 mas 'Things', id: 904280696
 mas 'Sleeve', id: 1606145041
+mas 'Lightshot Screenshot', id: 526298438
 mas 'GIPHY Capture. The GIF Maker', id: 668208984
