@@ -47,3 +47,4 @@ mas 'Things', id: 904280696
 mas 'Sleeve', id: 1606145041
 mas 'Lightshot Screenshot', id: 526298438
 mas 'GIPHY Capture. The GIF Maker', id: 668208984
+mas 'Unclutter', id: 577085396

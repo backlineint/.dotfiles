@@ -28,10 +28,11 @@ git clone --recursive https://github.com/backlineint/.dotfiles.git ~/.dotfiles
 
 ## Manual Follow Up Steps
 
-* Login to Chrome profile to sync browser extensions and settings.
-
 Apps that currently require manual download:
 * Final Cut Pro (associated with different Apple account)
+
+* Login to Chrome profile to sync browser extensions and settings.
+* Authorize iTunes
 * Trust Lando certs after you've started a Lando app
 
 ```zsh
