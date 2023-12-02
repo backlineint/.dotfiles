@@ -14,3 +14,4 @@ $DOTFILES/.macos.sh
 
 # Sync Mac application settings
 mackup restore
+mackup uninstall --force

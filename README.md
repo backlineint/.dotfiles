@@ -56,6 +56,12 @@ mackup backup
 
 And commit the result.
 
+Due to a [bug with Sonoma and Mackup](https://github.com/lra/mackup/issues/1924), it is then necessary to 'uninstall' Mackup to make sure settings are honored going forward.
+
+```zsh
+mackup uninstall --force
+```
+
 ## Resources
 
 * https://driesvints.com/blog/getting-started-with-dotfiles/
