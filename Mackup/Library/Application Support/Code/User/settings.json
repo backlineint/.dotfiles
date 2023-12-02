@@ -4,5 +4,6 @@
     "*.module": "php"
   },
   "editor.formatOnSave": true,
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "editor.semanticTokenColorCustomizations": {}
 }
