@@ -16,7 +16,7 @@ brew 'mysql'
 brew 'nvm'
 brew 'yarn'
 brew 'pnpm'
-brew 'youtube-dl'
+brew 'yt-dlp'
 brew 'ffmpeg'
 
 # Apps
