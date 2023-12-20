@@ -35,6 +35,7 @@ cask 'notion'
 cask 'fig'
 cask 'lando'
 cask 'arc'
+cask 'bartender'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
