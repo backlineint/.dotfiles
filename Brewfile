@@ -37,6 +37,7 @@ cask 'lando'
 cask 'arc'
 cask 'bartender'
 cask 'zoom'
+cask 'postman'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
