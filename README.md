@@ -37,6 +37,9 @@ Apps that currently require manual download:
 - [Replace Spotlight with Raycast](https://manual.raycast.com/hotkey) (Is this actually covered by current settings export?)
 - Trust Lando certs after you've started a Lando app
 
+- Complete DDEV install:
+  `mkcert -install`
+
 ```zsh
 sudo security add-trusted-cert -d -r trustRoot -k /Library/Keychains/System.keychain ~/.lando/certs/lndo.site.pem
 ```

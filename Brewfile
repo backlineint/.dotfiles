@@ -18,6 +18,8 @@ brew 'yarn'
 brew 'pnpm'
 brew 'yt-dlp'
 brew 'ffmpeg'
+brew 'ddev/ddev/ddev'
+brew 'nss'
 
 # Apps
 cask 'docker'
