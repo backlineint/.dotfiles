@@ -53,3 +53,4 @@ mas 'Sleeve', id: 1606145041
 mas 'Lightshot Screenshot', id: 526298438
 mas 'GIPHY Capture. The GIF Maker', id: 668208984
 mas 'Unclutter', id: 577085396
+mas 'HP Easy Scan', id: 967004861
