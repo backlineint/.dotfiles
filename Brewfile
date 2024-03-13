@@ -40,6 +40,7 @@ cask 'arc'
 cask 'bartender'
 cask 'zoom'
 cask 'postman'
+cask 'steam'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'

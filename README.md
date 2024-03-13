@@ -35,6 +35,8 @@ Apps that currently require manual download:
 - Login to Chrome profile to sync browser extensions and settings.
 - Authorize iTunes
 - [Replace Spotlight with Raycast](https://manual.raycast.com/hotkey) (Is this actually covered by current settings export?)
+- Open Fig to provide a11y permissions.
+- Turn on VSCode settings sync
 - Trust Lando certs after you've started a Lando app
 
 - Complete DDEV install:
