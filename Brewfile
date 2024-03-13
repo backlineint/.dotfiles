@@ -41,6 +41,7 @@ cask 'bartender'
 cask 'zoom'
 cask 'postman'
 cask 'steam'
+cask 'opal-composer'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'

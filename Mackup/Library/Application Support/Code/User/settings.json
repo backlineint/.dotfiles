@@ -8,36 +8,43 @@
       "strings": true
     },
     "editor.suggest.insertMode": "replace",
-    "gitlens.codeLens.scopes": ["document"]
+    "gitlens.codeLens.scopes": [
+      "document"
+    ]
   },
   "editor.accessibilitySupport": "off",
-  "editor.formatOnSave": true,
-  "editor.semanticTokenColorCustomizations": {},
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.detectIndentation": false,
   "editor.fontFamily": "'Source Code Pro for Powerline', Menlo, Monaco, 'Courier New', monospace",
+  "editor.formatOnSave": true,
   "editor.inlineSuggest.enabled": true,
-  "editor.rulers": [80],
+  "editor.rulers": [
+    80
+  ],
+  "editor.semanticTokenColorCustomizations": {},
   "editor.tabSize": 2,
   "explorer.confirmDelete": false,
   "files.associations": {
+    "*.install": "php",
     "*.module": "php",
     "*.theme": "php",
-    "*.webc": "html",
-    "*.install": "php"
+    "*.webc": "html"
   },
   "git.mergeEditor": true,
   "github.copilot.enable": {
     "*": true,
-    "plaintext": true,
     "markdown": true,
+    "plaintext": true,
     "scminput": false,
     "yaml": true
   },
+  "settingsSync.ignoredSettings": [
+    "-window.zoomLevel"
+  ],
   "terminal.integrated.env.osx": {
-    "FIG_NEW_SESSION": "1"
+    "FIG_NEW_SESSION": "1",
+    "CW_NEW_SESSION": "1"
   },
   "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
-  "window.zoomLevel": 0.5,
-  "settingsSync.ignoredSettings": ["-window.zoomLevel"]
+  "window.zoomLevel": 0.5
 }
