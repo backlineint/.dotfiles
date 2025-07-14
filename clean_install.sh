@@ -21,11 +21,11 @@ ln -s $HOME/.dotfiles/.zshrc $HOME/.zshrc
 
 export DOTFILES=~/.dotfiles
 
-# Symlink the Mackup config file to the home directory
-ln -s $DOTFILES/.mackup.cfg $HOME/.mackup.cfg
+# # Symlink the Mackup config file to the home directory
+# ln -s $DOTFILES/.mackup.cfg $HOME/.mackup.cfg
 
-# For Lando - should be possible to remove in the future
-sudo softwareupdate --install-rosetta
+# # For Lando - should be possible to remove in the future
+# sudo softwareupdate --install-rosetta
 
 # Update Homebrew recipes
 brew update

@@ -13,5 +13,5 @@ $DOTFILES/clone.sh
 $DOTFILES/.macos.sh
 
 # Sync Mac application settings
-mackup restore
-mackup uninstall --force
+# mackup restore
+# mackup uninstall --force

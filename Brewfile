@@ -4,7 +4,7 @@ tap 'homebrew/bundle'
 tap 'homebrew/cask-fonts'
 
 # Binaries
-brew 'mackup'
+# brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'svn' # Needed to install fonts
 
@@ -29,19 +29,15 @@ cask 'slack'
 cask 'visual-studio-code'
 cask 'zoom'
 cask '1password'
-cask 'evernote'
 cask 'raycast'
-cask 'encryptme'
-cask 'notion'
 cask 'codewhisperer'
-cask 'lando'
 cask 'arc'
 cask 'bartender'
 cask 'zoom'
 cask 'postman'
-cask 'steam'
 cask 'opal-composer'
 cask 'orbstack'
+cask 'surfshark'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
